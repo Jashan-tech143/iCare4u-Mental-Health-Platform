@@ -27,3 +27,9 @@
 1. Role-based dashboards.
 2. Secure login and session management.
 3. Real-time content updates with timestamps.
+
+# Final Assignment - Index Page
+
+Here's a screenshot of the final `dashboard.php` page:
+
+![iCare4u - A Mental Health Platform](image.png)
